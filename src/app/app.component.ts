@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'firstProject';
+  title = 'firstProject hello i wanna edit this file and upload to git';
 }
